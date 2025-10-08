@@ -80,8 +80,7 @@ The server will now be running on `http://localhost:5000`.
   - `player-shot`: Notification of being hit.
 
 ## 📄 Project hidden sequence:
-The (.) files are hidden the repository and even if someone implements it in the system it remain hidden because they are concidered as system level files; <.gitignore>,<.env> . If incase of modification neessity you must view using <nano > or any other <code editors> ...........
-
+The (.) files are hidden the repository and even if someone implements it in the system it remain hidden because they are concidered as system level files; <.gitignore>,<.env> . If incase of modification neessity you must view using <nano > or any other <code-editors> .
 
 ## 🤝 Contributing
 
