@@ -79,9 +79,9 @@ The server will now be running on `http://localhost:5000`.
   - `game-state-update`: Periodic update of all players' states.
   - `player-shot`: Notification of being hit.
 
-## 📄 Project Documentation
+## 📄 Project hidden sequence:
+The (.) files are hidden the repository and even if someone implements it in the system it remain hidden because they are concidered as system level files; <.gitignore>,<.env> . If incase of modification neessity you must view using <nano > or any other <code editors> ...........
 
-For a detailed project plan, including architecture, data models, and deployment strategy, please see the full project document in the `/docs` directory.
 
 ## 🤝 Contributing
 
