@@ -35,7 +35,7 @@ To get a local copy up and running, follow these simple steps.
 
 1.  Clone the repository:
     ```bash
-    git clone https://github.com/YOUR_USERNAME/nexus-shooter-backend.git
+    git clone https://github.com/Joyboy9801/Real-time-Multiplayer-Game-s-Backend-/nexus-shooter-backend.git
     cd nexus-shooter-backend
     ```
 2.  Install NPM packages:
